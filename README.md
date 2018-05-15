@@ -1,2 +1,4 @@
-# TicTacToe(Cpp SDL2)
-TicTacToe in C++ using SDL2, made by Ricardo Luís Vaz Silva (RicardoLuis0)
+# Tic Tac Toe
+I made Tic Tac Toe in C++ to teach myself SDL2
+
+made by Ricardo Luís Vaz Silva (RicardoLuis0)
